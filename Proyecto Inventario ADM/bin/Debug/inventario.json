@@ -1,0 +1,58 @@
+[
+  {
+    "Nombre": "DVD\u0027s",
+    "Cantidad": 45,
+    "Precio": 1.60,
+    "FechaRegistro": "2024-08-15T09:02:01.0448156-04:00",
+    "CantidadMesAnterior": 45,
+    "CostoCompraUnitarioMesAnterior": 1.40,
+    "TotalBsCompraMesAnterior": 72,
+    "TotalConsumo": 0,
+    "CompraMes": 0,
+    "TotalBs": 72.00,
+    "TotalProductoInventario": 45,
+    "CantidadActual": 45
+  },
+  {
+    "Nombre": "DVD\u0027s Doble Capa",
+    "Cantidad": 0,
+    "Precio": 8.80,
+    "FechaRegistro": "2024-08-15T09:03:48.1566099-04:00",
+    "CantidadMesAnterior": 0,
+    "CostoCompraUnitarioMesAnterior": 8.80,
+    "TotalBsCompraMesAnterior": 0,
+    "TotalConsumo": 20,
+    "CompraMes": 50,
+    "TotalBs": 264.00,
+    "TotalProductoInventario": 50,
+    "CantidadActual": 30
+  },
+  {
+    "Nombre": "CD\u0027s",
+    "Cantidad": 71,
+    "Precio": 1.61,
+    "FechaRegistro": "2024-08-15T13:50:45.9322456-04:00",
+    "CantidadMesAnterior": 23,
+    "CostoCompraUnitarioMesAnterior": 1.40,
+    "TotalBsCompraMesAnterior": 32.20,
+    "TotalConsumo": 2,
+    "CompraMes": 50,
+    "TotalBs": 114.31,
+    "TotalProductoInventario": 73,
+    "CantidadActual": 71
+  },
+  {
+    "Nombre": "Disco Solido",
+    "Cantidad": 1,
+    "Precio": 100,
+    "FechaRegistro": "2024-08-16T11:13:30.1246059-04:00",
+    "CantidadMesAnterior": 0,
+    "CostoCompraUnitarioMesAnterior": 0,
+    "TotalBsCompraMesAnterior": 0,
+    "TotalConsumo": 2,
+    "CompraMes": 5,
+    "TotalBs": 100,
+    "TotalProductoInventario": 5,
+    "CantidadActual": 3
+  }
+]

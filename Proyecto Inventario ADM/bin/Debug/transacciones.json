@@ -1,0 +1,156 @@
+[
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 8,
+    "PrecioUnitario": 1.61,
+    "Tipo": 0,
+    "Fecha": "2024-08-07T14:55:28.9713167-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 10,
+    "PrecioUnitario": 1.50,
+    "Tipo": 0,
+    "Fecha": "2024-08-07T18:05:01.3053067-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 5,
+    "PrecioUnitario": 1.50,
+    "Tipo": 1,
+    "Fecha": "2024-08-07T18:05:27.0450024-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 7,
+    "PrecioUnitario": 1.50,
+    "Tipo": 1,
+    "Fecha": "2024-08-08T08:27:15.7635311-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 0,
+    "PrecioUnitario": 1.61,
+    "Tipo": 1,
+    "Fecha": "2024-08-12T15:09:30.594843-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 50,
+    "PrecioUnitario": 1.7,
+    "Tipo": 0,
+    "Fecha": "2024-08-15T11:16:48.5729587-04:00"
+  },
+  {
+    "NombreItem": "DVD\u0027s Doble Capa",
+    "Cantidad": 20,
+    "PrecioUnitario": 8.80,
+    "Tipo": 1,
+    "Fecha": "2024-08-15T11:27:24.7912678-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 50,
+    "PrecioUnitario": 1.61,
+    "Tipo": 0,
+    "Fecha": "2024-08-15T15:12:48.3267205-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 2,
+    "PrecioUnitario": 1.61,
+    "Tipo": 1,
+    "Fecha": "2024-08-15T15:16:42.8003857-04:00"
+  },
+  {
+    "NombreItem": "Disco Solido",
+    "Cantidad": 5,
+    "PrecioUnitario": 100,
+    "Tipo": 0,
+    "Fecha": "2024-08-16T11:14:09.6999146-04:00"
+  },
+  {
+    "NombreItem": "Disco Solido",
+    "Cantidad": 2,
+    "PrecioUnitario": 100,
+    "Tipo": 1,
+    "Fecha": "2024-08-16T11:14:52.6842302-04:00"
+  },
+  {
+    "NombreItem": "Disco Duro",
+    "Cantidad": 5,
+    "PrecioUnitario": 100,
+    "Tipo": 0,
+    "Fecha": "2024-08-16T11:43:37.5398043-04:00"
+  },
+  {
+    "NombreItem": "Disco Duro",
+    "Cantidad": 4,
+    "PrecioUnitario": 100,
+    "Tipo": 1,
+    "Fecha": "2024-08-16T11:44:18.2737248-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 5,
+    "PrecioUnitario": 1.61,
+    "Tipo": 1,
+    "Fecha": "2024-08-16T11:47:15.499943-04:00"
+  },
+  {
+    "NombreItem": "CD\u0027s",
+    "Cantidad": 10,
+    "PrecioUnitario": 1.61,
+    "Tipo": 1,
+    "Fecha": "2024-08-16T11:47:43.0175965-04:00"
+  },
+  {
+    "NombreItem": "Julio",
+    "Cantidad": 5,
+    "PrecioUnitario": 7,
+    "Tipo": 0,
+    "Fecha": "2024-08-16T11:48:54.1096151-04:00"
+  },
+  {
+    "NombreItem": "Lapto",
+    "Cantidad": 10,
+    "PrecioUnitario": 100,
+    "Tipo": 0,
+    "Fecha": "2024-08-19T11:02:58.0410562-04:00"
+  },
+  {
+    "NombreItem": "Lapto",
+    "Cantidad": 5,
+    "PrecioUnitario": 100,
+    "Tipo": 1,
+    "Fecha": "2024-08-19T11:07:28.7617298-04:00"
+  },
+  {
+    "NombreItem": "Lapto",
+    "Cantidad": 10,
+    "PrecioUnitario": 1130,
+    "Tipo": 0,
+    "Fecha": "2024-08-19T11:49:33.5224287-04:00"
+  },
+  {
+    "NombreItem": "Lapto",
+    "Cantidad": 5,
+    "PrecioUnitario": 1130,
+    "Tipo": 1,
+    "Fecha": "2024-08-19T11:55:06.9364639-04:00"
+  },
+  {
+    "NombreItem": "Lapto",
+    "Cantidad": 10,
+    "PrecioUnitario": 1132,
+    "Tipo": 0,
+    "Fecha": "2024-08-19T12:11:30.8951722-04:00"
+  },
+  {
+    "NombreItem": "Lapto",
+    "Cantidad": 5,
+    "PrecioUnitario": 1132,
+    "Tipo": 1,
+    "Fecha": "2024-08-19T12:12:07.4717207-04:00"
+  }
+]
