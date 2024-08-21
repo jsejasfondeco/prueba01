@@ -1,0 +1,132 @@
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.AssemblyReference.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto_Inventario_ADM.Properties.Resources.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.GenerateResource.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.CoreCompileInputs.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe.config
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.pdb
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.exe
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.pdb
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.ConsultarItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.DarDeBajaItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.LoginForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistrarItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto.42CB9A7E.Up2Date
+C:\Users\Sejitas\source\repos\FONDECO IFD\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistroCompraForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe.config
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.pdb
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.AssemblyReference.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.ConsultarItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.DarDeBajaItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistroCompraForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.LoginForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto_Inventario_ADM.Properties.Resources.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistrarItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.GenerateResource.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.CoreCompileInputs.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto.42CB9A7E.Up2Date
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.exe
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.pdb
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe.config
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.pdb
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.dll
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.xml
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.AssemblyReference.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.ConsultarItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.DarDeBajaItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistroCompraForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.LoginForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto_Inventario_ADM.Properties.Resources.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistrarItemForm.resources
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.GenerateResource.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.CoreCompileInputs.cache
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto.42CB9A7E.Up2Date
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.exe
+C:\Users\Sejitas\source\repos\FONDECO IFD\Sistemas\Sistemas\Puta\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.pdb
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe.config
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.exe
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Proyecto Inventario ADM.pdb
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.dll
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Buffers.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Memory.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Text.Json.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\bin\Debug\System.ValueTuple.xml
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.AssemblyReference.cache
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.ConsultarItemForm.resources
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.DarDeBajaItemForm.resources
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistroCompraForm.resources
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.LoginForm.resources
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto_Inventario_ADM.Properties.Resources.resources
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\ProyectoInventarioADM.RegistrarItemForm.resources
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.GenerateResource.cache
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.csproj.CoreCompileInputs.cache
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto.42CB9A7E.Up2Date
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.exe
+C:\Users\jsejas\Downloads\ULTIMO\Proyecto Inventario ADM\Proyecto Inventario ADM\obj\Debug\Proyecto Inventario ADM.pdb

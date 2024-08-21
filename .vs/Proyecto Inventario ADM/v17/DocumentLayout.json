@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|c:\\users\\jsejas\\downloads\\ultimo\\proyecto inventario adm\\proyecto inventario adm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\historialtransaccionesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\historialtransaccionesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\consultaritemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\consultaritemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|c:\\users\\jsejas\\downloads\\ultimo\\proyecto inventario adm\\proyecto inventario adm\\consultaritemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\consultaritemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\registrocompraform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\registrocompraform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\consultaritemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\consultaritemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\registrocompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\registrocompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\registrarconsumoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\registrarconsumoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\dardebajaitemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\dardebajaitemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\dardebajaitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\dardebajaitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\registrarconsumoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\registrarconsumoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\historialtransaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\historialtransaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\registrocompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\registrocompraform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\historialtransaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\historialtransaccionesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\registrarconsumoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\registrarconsumoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\registraritemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\registraritemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\cambiarclaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\cambiarclaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\dardebajaitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\dardebajaitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\proyecto inventario adm\\cambiarclaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E72590C-E9D4-42F7-A43D-F0D8861B69A2}|Proyecto Inventario ADM\\Proyecto Inventario ADM.csproj|solutionrelative:proyecto inventario adm\\cambiarclaveform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultarItemForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\ConsultarItemForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\ConsultarItemForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\ConsultarItemForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\ConsultarItemForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:34:00.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistorialTransaccionesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\HistorialTransaccionesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\HistorialTransaccionesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\HistorialTransaccionesForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\HistorialTransaccionesForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:17:40.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\App.config",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\App.config",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\App.config",
+              "RelativeToolTip": "Proyecto Inventario ADM\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-20T19:22:43.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultarItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\ConsultarItemForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\ConsultarItemForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\ConsultarItemForm.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\ConsultarItemForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:33:50.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:11:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistroCompraForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistroCompraForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\RegistroCompraForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistroCompraForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\RegistroCompraForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:49:49.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistrarConsumoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarConsumoForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\RegistrarConsumoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarConsumoForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\RegistrarConsumoForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:36:47.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrarConsumoForm.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarConsumoForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\RegistrarConsumoForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarConsumoForm.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\RegistrarConsumoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:36:36.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultarItemForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\ConsultarItemForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\ConsultarItemForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\ConsultarItemForm.cs [Design]",
+              "RelativeToolTip": "Proyecto Inventario ADM\\ConsultarItemForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:31:17.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\MainForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:25:18.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\MainForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:23:21.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\MainForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\MainForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\MainForm.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\MainForm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:24:45.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Program.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\Program.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Program.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:25:55.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistroCompraForm.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistroCompraForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\RegistroCompraForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistroCompraForm.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\RegistroCompraForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:48:08.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HistorialTransaccionesForm.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\HistorialTransaccionesForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\HistorialTransaccionesForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\HistorialTransaccionesForm.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\HistorialTransaccionesForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:17:26.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistroCompraForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistroCompraForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\RegistroCompraForm.cs",
+              "ToolTip": "C:\\Users\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistroCompraForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistroCompraForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:46:40.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HistorialTransaccionesForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\HistorialTransaccionesForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\HistorialTransaccionesForm.cs",
+              "ToolTip": "C:\\Users\\Sejitas\\source\\repos\\FONDECO IFD\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\HistorialTransaccionesForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sejitas\\source\\repos\\FONDECO IFD\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\HistorialTransaccionesForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:45:18.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DarDeBajaItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\DarDeBajaItemForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\DarDeBajaItemForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\DarDeBajaItemForm.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\DarDeBajaItemForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:32:59.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrarConsumoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarConsumoForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\RegistrarConsumoForm.cs",
+              "ToolTip": "C:\\Users\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarConsumoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarConsumoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T05:36:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrarItemForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarItemForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\RegistrarItemForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\RegistrarItemForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\RegistrarItemForm.Designer.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:00:38.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DarDeBajaItemForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\DarDeBajaItemForm.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\DarDeBajaItemForm.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\DarDeBajaItemForm.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\DarDeBajaItemForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:33:13.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "RelativeToolTip": "Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-31T14:42:12.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "RelativeToolTip": "Proyecto Inventario ADM\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-31T14:43:54.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T15:58:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DarDeBajaItemForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\DarDeBajaItemForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\DarDeBajaItemForm.cs",
+              "ToolTip": "C:\\Users\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\DarDeBajaItemForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sejitas\\source\\repos\\FONDECO IFD\\Sistemas\\Sistemas\\Puta\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\DarDeBajaItemForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T19:30:18.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CambiarClaveForm.cs",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\CambiarClaveForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\CambiarClaveForm.cs",
+              "ToolTip": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\CambiarClaveForm.cs",
+              "RelativeToolTip": "Proyecto Inventario ADM\\CambiarClaveForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:29:03.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CambiarClaveForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\jsejas\\Downloads\\ULTIMO\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\CambiarClaveForm.cs",
+              "RelativeDocumentMoniker": "Proyecto Inventario ADM\\CambiarClaveForm.cs",
+              "ToolTip": "C:\\Users\\Sejitas\\source\\repos\\FONDECO IFD\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\CambiarClaveForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Sejitas\\source\\repos\\FONDECO IFD\\Proyecto Inventario ADM\\Proyecto Inventario ADM\\CambiarClaveForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:28:41.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
